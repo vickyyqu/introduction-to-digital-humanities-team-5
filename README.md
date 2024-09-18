@@ -24,11 +24,11 @@ Think of the the team charter as your team's log. It should describe the team me
 
 ## Team Chart
 ### Individual Member Skills
-Zselyke - Literature research, statistics and SPSS, psychology and social interaction, summarizing and writing scientific texts
-Vicky - Coding and data analysis skills (data processing/data visualization), data science skills (text processing/NLP)
-Yara - literature research, writing, summarizing, interpreting visual materials (artworks.. etc )
-Anass - powerpoint slides, text writing/layout and reliability
-Fabian - presenting, Literature review, stats, content and discourse analysis, finding literature 
+Zselyke - Literature research, statistics and SPSS, psychology and social interaction, summarizing and writing scientific texts <br>
+Vicky - Coding and data analysis skills (data processing/data visualization), data science skills (text processing/NLP) <br>
+Yara - literature research, writing, summarizing, interpreting visual materials (artworks.. etc ) <br>
+Anass - powerpoint slides, text writing/layout and reliability <br>
+Fabian - presenting, Literature review, stats, content and discourse analysis, finding literature  <br>
 
 ### Deadlines and Deliverables
 
