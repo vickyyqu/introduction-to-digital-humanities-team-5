@@ -1,0 +1,9 @@
+sentiment encoding 
+"negative": 0
+"neutral": 1
+"positive": 
+
+gender encoding 
+"U": 0
+"M": 1
+"F": 2
