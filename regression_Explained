@@ -1,0 +1,13 @@
+Explaining the model:
+
+Multireg_Ref_1:
+  refrencelevel = 1 (male)
+  1. Neutral Sentiment (Category 1) vs. Negative Sentiment (Category 0)
+    Unidentified and Female authors are both less likely than Male authors to produce neutral sentiment texts compared to negative.
+    Unidentified authors show a slightly stronger negative effect compared to Female authors when compared to Male authors.
+  2. Positive Sentiment (Category 2) vs. Negative Sentiment (Category 0)
+    Unidentified authors are slightly less likely than Male authors to produce positive sentiment texts compared to negative.
+    Female authors, however, are more likely to produce positive sentiment texts compared to Male authors.
+  In both cases (neutral vs. negative and positive vs. negative), the year has a positive effect. This means that as time progresses, texts are more 
+  likely to have neutral or positive sentiment compared to negative sentiment.
+
